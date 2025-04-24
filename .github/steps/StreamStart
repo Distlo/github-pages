@@ -22,7 +22,7 @@
         <div class="info">
             Enter your email and we’ll send you the StreamStart app code plus a free trial code to unlock premium streaming.
         </div>
-        <form action="https://formspree.io/f/your-form-id" method="POST">
+        <form action="https://formspree.io/f/movdqyvv method="POST">
             <input type="email" name="email" placeholder="Your email address" required>
             <button type="submit">Send Me My Free Trial</button>
         </form>
